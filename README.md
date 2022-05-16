@@ -22,6 +22,7 @@
 |-------|---------------------------------------------------------------------------------------------|---------|--------------|---------------------|
 |   1   | 총 () 문제                         |   은기     |    [link](https://www.acmicpc.net/user/aion5467)      |     [link](https://programmers.co.kr/pr/sus5467_2767)    |
 |   1   | 총 () 문제                         |   태웅     |    [link](https://www.acmicpc.net/user/ktw2378)      |     [link](https://programmers.co.kr/pr/ktw2378_5481)    |
+|   1   | 총 () 문제                         |   인석     |    [link](https://www.acmicpc.net/user/umrhiumrhi)      |     [link](https://programmers.co.kr/pr/248671_6756)    |
 
 <br/>
 
@@ -32,8 +33,7 @@
 ---
 
 ### 참여자
-> 김은기[link](https://github.com/xuio-0528), 강태웅[link](https://github.com/Taewoong1378)
-
+> 김은기[link](https://github.com/xuio-0528), 강태웅[link](https://github.com/Taewoong1378), 최인석[link]()
 ### 참고 링크
 > 백준 : [link](https://www.acmicpc.net/)
 > 프로그래머스 : [link](https://programmers.co.kr/)
