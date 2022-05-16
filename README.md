@@ -18,9 +18,9 @@
 
 ### 해결 리스트 링크
 
-| Dates | Paper(author)                                                                                     | Year | Presenter | File upload | Code explained |
+| Weeks | Solved                                                                                      |  Person | 백준 프로필 링크 |  프로그래머스 프로필 링크 |
 |-------|---------------------------------------------------------------------------------------------------|------|-----------|-------------|----------------|
-|       | 총 () 문제                         | 2017 |    은기     |    [link]()        |         |
+|       | 총 () 문제                         | 2017 |    은기     |    [link](https://www.acmicpc.net/user/aion5467)      |     [link](https://programmers.co.kr/job_profiles/edit)    |
 
 <br/>
 
