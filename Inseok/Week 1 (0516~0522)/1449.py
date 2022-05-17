@@ -1,6 +1,7 @@
 #######################################################
 ##
 ## 백준 1449번 - 수리공 항승
+## acmicpc.net/problem/1449
 ##
 #######################################################
 
@@ -10,7 +11,6 @@ hole = list(map(int, input().split()))
 hole.sort()
 tmp = 0
 ans = 0
-tmp_idx = 0
 
 for i in range(1,N):
     diff = hole[i]-hole[i-1]
