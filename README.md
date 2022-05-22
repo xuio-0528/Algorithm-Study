@@ -33,7 +33,7 @@
 ---
 
 ### 참여자
-* 김은기 link https://github.com/xuio-0528
+* 김은기 https://github.com/xuio-0528
 * 강태웅 https://github.com/Taewoong1378
 * 최인석 https://github.com/umrhiumrhi
 ### 참고 링크
