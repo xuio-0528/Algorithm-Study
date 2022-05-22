@@ -19,7 +19,7 @@ for i in range(N):
 ans = []
 for i in range(N):
     cnt = 1
-    for j in range(i+1,N):
+    for j in range(N):
         if dung_chi[i][0] < dung_chi[j][0] and dung_chi[i][1] < dung_chi[j][1]:
             cnt += 1
     
