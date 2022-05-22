@@ -33,9 +33,9 @@
 ---
 
 ### 참여자
-> 김은기 link https://github.com/xuio-0528
-> 강태웅 https://github.com/Taewoong1378
-> 최인석 https://github.com/umrhiumrhi
+* 김은기 link https://github.com/xuio-0528
+* 강태웅 https://github.com/Taewoong1378
+* 최인석 https://github.com/umrhiumrhi
 ### 참고 링크
 > 백준 : [link](https://www.acmicpc.net/)
 > 프로그래머스 : [link](https://programmers.co.kr/)
