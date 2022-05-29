@@ -15,7 +15,7 @@ while(1) :
     while(tmp>0) :
         val += (tmp%10)**P
         tmp //=10
-    if val in cache : 
+    if val in cache: 
         k = val
         break
     cache.append(val)

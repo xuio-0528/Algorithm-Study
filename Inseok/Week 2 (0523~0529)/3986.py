@@ -16,7 +16,7 @@ for _ in range(N):
         else :
             if stack[-1] == chr : stack.pop(-1)
             else : stack.append(chr)
-    if len(stack) == 0 : cnt += 1
+    if len(stack) == 0: cnt += 1
 
 print(cnt)
         

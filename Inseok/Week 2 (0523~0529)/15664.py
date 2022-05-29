@@ -5,10 +5,10 @@
 ##
 #######################################################
 
-def dfs(l, visited) :
+def dfs(l, visited):
     global ans
     if len(l)==M+1:
-        if l[1:] in ans :
+        if l[1:] in ans:
             return
         else :
             ans.append(l[1:])

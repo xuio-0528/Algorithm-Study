@@ -7,11 +7,9 @@
 
 def foo(k, p):
     cnt = 0
-
     while k>=p:
         cnt += k//p
         k //= p
-
     return cnt
 
 N, M = list(map(int, input().split()))
