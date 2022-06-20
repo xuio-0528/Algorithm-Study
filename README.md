@@ -20,7 +20,7 @@
 
 | Weeks | Solved                                                                                      |  Person | 백준 프로필 링크 |  프로그래머스 프로필 링크 |
 |-------|---------------------------------------------------------------------------------------------|---------|--------------|---------------------|
-|   3   | 총 (20) 문제                         |   은기     |    [link](https://www.acmicpc.net/user/aion5467)      |     [link](https://programmers.co.kr/pr/sus5467_2767)    |
+|   3   | 총 (22) 문제                         |   은기     |    [link](https://www.acmicpc.net/user/aion5467)      |     [link](https://programmers.co.kr/pr/sus5467_2767)    |
 |   1   | 총 () 문제                         |   태웅     |    [link](https://www.acmicpc.net/user/ktw2378)      |     [link](https://programmers.co.kr/pr/ktw2378_5481)    |
 |   2   | 총 (9) 문제                         |   인석     |    [link](https://www.acmicpc.net/user/umrhiumrhi)      |     [link](https://programmers.co.kr/pr/248671_6756)    |
 
